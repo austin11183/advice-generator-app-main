@@ -1,0 +1,17 @@
+:root {
+    --color-black: #282a34;
+}
+
+body {
+    background-color: var(--color-black);
+    height: 100vh;
+}
+
+.advice-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin: 20px;
+    background-color: aliceblue;
+}
